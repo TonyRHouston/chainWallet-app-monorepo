@@ -3,7 +3,7 @@ on:
   workflow_dispatch: {}
 jobs:
   release-ext:
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
     strategy:
       matrix:
         node-version:
