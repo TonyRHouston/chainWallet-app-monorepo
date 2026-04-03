@@ -285,7 +285,7 @@
     "react-native-copy-asset": "^3.0.2",
     "react-refresh": "^0.14.0",
     "rimraf": "3.0.2",
-    "semver": "7.5.4",
+    "semver": "7.7.4",
     "socket.io": "^4.7.5",
     "style-loader": "^3.3.3",
     "tamagui-loader": "1.108.0",
